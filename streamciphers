@@ -238,4 +238,5 @@ char *decode (char *ciphertext, unsigned long key)
     printdecode[numberOfGroups*4] = '\0';
     
     return printdecode;
+    
 }
